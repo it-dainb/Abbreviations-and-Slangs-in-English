@@ -1,7 +1,6 @@
 # Abbreviations and Slangs in English
 
-A dictionary of Abbreviations and Slangs in English \
-Currently it has **873 lines** of Abbreviations and Slangs
+A dictionary of Abbreviations and Slangs in English
 
 ## Requirement
 - spacy
