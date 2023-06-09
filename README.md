@@ -1,6 +1,6 @@
-# Abbreviations-and-Slangs-in-English
+# Abbreviations and Slangs in English
 
-A Abbreviations and Slangs dictionnary in English\
+A dictionary of Abbreviations and Slangs in English \
 Currently it has **873 lines** of Abbreviations and Slangs
 
 ## Installation
